@@ -1,0 +1,1 @@
+This is a driver for connect SQLite database in the Delphi 2007+ DBExpress framework (DBX4).
